@@ -1,1 +1,1 @@
-# first_project
+1. dönem bitirme projem
